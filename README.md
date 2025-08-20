@@ -10,7 +10,7 @@ Este é um projeto desenvolvido como **meu primeiro portfólio pessoal**, criado
 ## 📂 Como Rodar o Projeto  
 1. Baixe ou clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/anatechon/Portfolio-Ana.git
 
 
 ---
