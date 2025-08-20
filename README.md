@@ -1,12 +1,16 @@
-# Projeto
+# 🚀 Primeiro Portfólio  
 
-Este é um projeto feito para [Primeiro Portifolio].
+Este é um projeto desenvolvido como **meu primeiro portfólio pessoal**, criado para apresentar minhas habilidades, experiências e projetos.  
 
-## Tecnologias usadas
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Tecnologias Utilizadas  
+- **HTML5** → Estrutura do site  
+- **CSS3** → Estilização e responsividade  
+- **JavaScript** → Interatividade e dinamismo  
 
-## Como rodar
-1. Baixe o projeto.
-2. Abra o arquivo `index.html` no navegador.
+## 📂 Como Rodar o Projeto  
+1. Baixe ou clone este repositório:  
+   ```bash
+   git clone https://github.com/seuusuario/seurepositorio.git
+
+
+---
